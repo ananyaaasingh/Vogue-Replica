@@ -7,10 +7,34 @@
     border-bottom: 1px solid red;
     }
 
+    .showcase{
+    font-family: Georgia, sans-serif;
+    font-weight:bold;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    }
+
 .item{
     text-decoration: none;
     color: black;
     font-family: Georgia, serif;
 } 
 
+.imh{
+    font-family: GTWalsheimPro, helvetica, sans-serif;
+
+}
+
+.line1{
+    width: 100vw;
+    border-bottom: 1px solid rgb(156, 156, 156);
+}
+
+
+.line2{
+    padding-top: 0;
+    width: 100vw;
+    border-bottom: 10px solid rgb(7, 7, 7);
+}
 
